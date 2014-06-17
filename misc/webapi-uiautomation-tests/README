@@ -1,0 +1,111 @@
+## Introduction
+
+This test suite is for reference tests.
+
+## Authors:
+
+* Chen, Xi <xix.chen@intel.com>
+
+## How to run w3c-scp .cgi tests
+
+1. Config cgi server
+
+1.1 Install apache http server
+    ```
+    $ sudo apt-get install apache2
+    ```
+1.2  Add following line to your apache config(e.g. /etc/apache2/sites-enabled/000-default)
+     Alias /opt "/tmp/tests/"
+     ```
+     <Directory "/tmp/tests/">
+         Options ExecCGI Indexes FollowSymLinks
+         AllowOverride All
+         Order deny,allow
+         Allow from all
+         AddHandler cgi-script .cgi
+         AddHandler default-handler .html .htm .css .js .png .xml .gif .ogv .mp4 .ttf .jpg .jpeg .wgt .xht .exe .mp3 .webm .json
+      </Directory>
+      ```
+1.3  Copy tests to /tmp/tests/
+     ```
+     $ sudo cp -rf /path/to/webapi-uiautomation-tests/w3c-csp /tmp/test
+
+
+2. Config multiple port
+
+2.1  `$ sudo vi ports.conf`
+     add the following two lines:
+     ```
+     NameVirtualHost *:8081
+     Listen 8081
+     ```
+2.2  
+     ```
+     $ cd /etc/apache2/sites-available
+     $ sudo cp default newname
+     $ sudo vi newname
+     ```
+     add following lines:
+     ```
+     <VirtualHost *:8081>
+          ServerAdmin webmaster@localhost
+
+          DocumentRoot /tmp/tests
+          <Directory />
+              Options FollowSymLinks
+              AllowOverride None
+          </Directory>
+          <Directory /tmp/tests/>
+              Options Indexes FollowSymLinks MultiViews
+              AllowOverride None
+              Order allow,deny allow from all
+          </Directory>
+
+          ScriptAlias /cgi-bin/ /usr/lib/cgi-bin/
+          <Directory "/usr/lib/cgi-bin">
+              AllowOverride None
+              Options +ExecCGI -MultiViews +SymLinksIfOwnerMatch
+              Order allow,deny
+              Allow from all
+          </Directory>
+
+          ErrorLog ${APACHE_LOG_DIR}/error.log
+
+          # Possible values include: debug, info, notice, warn, error, crit,
+          # alert, emerg.
+          LogLevel warn
+
+          CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+          Alias /doc/ "/usr/share/doc/"
+          <Directory "/usr/share/doc/">
+              Options Indexes MultiViews FollowSymLinks
+              AllowOverride None
+              Order deny,allow
+              Deny from all
+              Allow from 127.0.0.0/255.0.0.0 ::1/128
+          </Directory>
+          
+          Alias /opt "/tmp/tests/"
+          <Directory "/tmp/tests/">
+              Options ExecCGI Indexes FollowSymLinks
+              AllowOverride All
+              Order deny,allow
+              Allow from all
+              AddHandler cgi-script .cgi
+              AddHandler default-handler .html .htm .css .js .png .xml .gif .ogv .mp4 .ttf .jpg .jpeg .wgt .xht .exe .mp3 .webm .json
+          </Directory>
+      </VirtualHost>
+      ```
+2.3  release new site: $ sudo ln -s /etc/apache2/sites-available/newname /etc/apache2/sites-enabled/001-default
+2.4  You should config 8082 port at the same time.
+2.5  Restart apache:  $ sudo /etc/init.d/apache2 restart
+2.6  Input http:127.0.0.1/opt,127.0.0.1:8081/opt,127.0.0.1:8082/opt,you can see the page file list.
+
+
+
+## LICENSE
+
+Copyright (c) 2014 Intel Corporation.
+Except as noted, this software is licensed under BSD-3-Clause License.
+Please see the COPYING file for the BSD-3-Clause License.
