@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <test_definition>
   <suite category="W3C/HTML5 APIs" name="tct-flexiblebox-css3-tests">
     <set name="FlexibleBox" type="js">
@@ -7,9 +8,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-direction</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -19,9 +20,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-flow</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -31,9 +32,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-wrap" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-wrap" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-wrap</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -43,9 +44,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -55,9 +56,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#align-content-property</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -67,9 +68,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#align-items-property</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -79,9 +80,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="align-self" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="align-self" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#align-self</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -91,9 +92,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-basis" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-basis" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-basis-property</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -103,9 +104,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-grow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-grow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-grow-property</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -115,9 +116,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-shrink" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-shrink" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-shrink-property</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -127,9 +128,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#justify-content-property</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -139,9 +140,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="min-height" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="min-height" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#min-size-auto</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -151,9 +152,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="min-width" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="min-width" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#min-size-auto</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -163,33 +164,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="order" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="order" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#order-property</spec_url>
-            <spec_statement />
-          </spec>
-        </specs>
-      </testcase>
-      <testcase component="W3C_HTML5 APIs/DOM, Forms and Styles/CSS Flexible Box Layout Module" execution_type="manual" id="align-content-004" priority="P2" purpose="This test checks that a multi-line flex container with 'align-content: space-between' distributes lines evenly in the flex container" status="ready" type="compliance">
-        <description>
-          <test_script_entry>/opt/tct-flexiblebox-css3-tests/flexiblebox/csswg/align-content-004-manual.htm</test_script_entry>
-        </description>
-        <specs>
-          <spec>
-            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
-            <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
-          </spec>
-        </specs>
-      </testcase>
-      <testcase component="W3C_HTML5 APIs/DOM, Forms and Styles/CSS Flexible Box Layout Module" execution_type="manual" id="align-items-004" priority="P2" purpose="This test checks that the flex container with 'align-items: baseline' places each flex item's margin box so that their baselines align" status="ready" type="compliance">
-        <description>
-          <test_script_entry>/opt/tct-flexiblebox-css3-tests/flexiblebox/csswg/align-items-004-manual.htm</test_script_entry>
-        </description>
-        <specs>
-          <spec>
-            <spec_assertion category="W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
-            <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -199,9 +176,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -211,9 +188,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -223,9 +200,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="align-self" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="align-self" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -235,9 +212,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -247,9 +224,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-basis" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-basis" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -259,9 +236,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-grow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-grow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -271,9 +248,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-shrink" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-shrink" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -283,9 +260,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -295,9 +272,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="min-height" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="min-height" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -307,9 +284,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="min-width" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="min-width" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -319,9 +296,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="order" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="order" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -334,9 +311,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="display" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="display" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -347,9 +324,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -360,9 +337,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -373,9 +350,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -386,9 +363,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="flex" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -399,9 +376,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -412,9 +389,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -425,9 +402,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -438,9 +415,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -451,9 +428,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="justify-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -464,9 +441,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -477,9 +454,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -490,9 +467,22 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
+          </spec>
+        </specs>
+      </testcase>
+      <testcase component="W3C_HTML5 APIs/DOM, Forms and Styles/CSS Flexible Box Layout Module" execution_type="auto" id="align-content-004" priority="P2" purpose="This test checks that a multi-line flex container with 'align-content: space-between' distributes lines evenly in the flex container" status="ready" type="compliance">
+        <description>
+          <test_script_entry>/opt/tct-flexiblebox-css3-tests/flexiblebox/csswg/align-content-004.htm</test_script_entry>
+          <refer_test_script_entry timeout="90">/opt/tct-flexiblebox-css3-tests/flexiblebox/csswg/reference/align-content-001-ref.html</refer_test_script_entry>
+        </description>
+        <specs>
+          <spec>
+            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
+            <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -503,9 +493,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -516,9 +506,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="align-content" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -529,9 +519,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -542,9 +532,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -555,9 +545,22 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
+          </spec>
+        </specs>
+      </testcase>
+      <testcase component="W3C_HTML5 APIs/DOM, Forms and Styles/CSS Flexible Box Layout Module" execution_type="auto" id="align-items-004" priority="P2" purpose="This test checks that the flex container with 'align-items: baseline' places each flex item's margin box so that their baselines align" status="ready" type="compliance">
+        <description>
+          <test_script_entry>/opt/tct-flexiblebox-css3-tests/flexiblebox/csswg/align-items-004.htm</test_script_entry>
+          <refer_test_script_entry timeout="90">/opt/tct-flexiblebox-css3-tests/flexiblebox/csswg/reference/align-content-001-ref.html</refer_test_script_entry>
+        </description>
+        <specs>
+          <spec>
+            <spec_assertion category="W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
+            <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -568,9 +571,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="align-items" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -581,9 +584,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-flow</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -594,9 +597,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-flow</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -607,9 +610,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-flow</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -620,9 +623,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-flow</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -633,9 +636,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-flow</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -646,9 +649,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-flow" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-flow</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -659,9 +662,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-direction</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -672,9 +675,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-direction</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -685,9 +688,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-direction</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -698,9 +701,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-direction</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -711,9 +714,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-direction</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -724,9 +727,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-wrap" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-wrap" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-wrap</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -737,9 +740,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-wrap" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-wrap" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-wrap</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -750,9 +753,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-wrap" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-wrap" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-wrap</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -763,9 +766,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-wrap" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-wrap" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-wrap</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -782,9 +785,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-direction</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -801,9 +804,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-direction</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -820,9 +823,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-direction</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -839,9 +842,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="Tizen W3C API Specifications" element_name="flex-direction" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/2012/WD-css3-flexbox-20120612/#flex-direction</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -852,9 +855,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="order" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="order" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
@@ -865,9 +868,9 @@
         </description>
         <specs>
           <spec>
-            <spec_assertion category="W3C API Specifications" element_name="order" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)" />
+            <spec_assertion category="W3C API Specifications" element_name="order" element_type="property" interface="CSS" section="DOM, Forms and Styles" specification="CSS Flexible Box Layout Module (Partial)"/>
             <spec_url>http://www.w3.org/TR/css3-flexbox/</spec_url>
-            <spec_statement />
+            <spec_statement/>
           </spec>
         </specs>
       </testcase>
